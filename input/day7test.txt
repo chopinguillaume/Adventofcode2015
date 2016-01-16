@@ -1,0 +1,17 @@
+b AND c -> a
+c AND d -> b
+d AND e -> c
+e AND f -> d
+f AND g -> e
+g AND h -> f
+h AND i -> g
+i AND j -> h
+j AND k -> i
+k AND l -> j
+l AND m -> k
+m AND n -> l
+n AND o -> m
+o AND p -> n
+p AND q -> o
+16 -> p
+17 -> q
